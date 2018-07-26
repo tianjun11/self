@@ -1,1 +1,0 @@
-D:\个人\GITHub\self\src\SqlConnection\SqlConnection\SqlConnection\obj\Debug\SqlConnection.csprojResolveAssemblyReference.cache
